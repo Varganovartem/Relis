@@ -1,0 +1,84 @@
+body {
+    font-family: sans-serif;
+}
+
+
+h1{
+    text-align:center ;
+    display: inline-block;
+    position: absolute ;
+     left:45%;    
+}
+
+
+
+header  {
+    border-radius: 20px;
+    height:200px;
+    width: 100%;
+    background-color: gray
+   }
+
+
+.logo {
+       height:190px;
+    width: 200px;
+    position: absolute;
+    left:20px;
+}
+
+
+
+
+    
+
+
+
+nav{  
+    text-align:center ;
+    display: inline-block;
+    position: absolute ;
+    left:44%; 
+    top: 150px;
+}
+
+.menu{
+    padding: 10px;
+}
+
+ 
+    
+.mine-img{
+   
+    width:20%;
+    display: inline-block;
+   
+    margin: 10px;
+
+}
+
+
+.mine {
+    display: inline-block;
+    width: 60%;
+  
+}
+
+
+
+  footer{
+    border-radius: 2px;
+    height:200px;
+    width: 100%;
+    background-color: gray
+   }
+   
+
+   
+
+.sigma footer{
+
+
+
+
+ }
